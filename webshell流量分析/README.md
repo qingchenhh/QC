@@ -74,7 +74,7 @@
 
 ![1663146981477](images/1663146981477.png)
 
-特征的话我觉得__eval%28base64_decode%28strrev%28urldecode%28%27__就可以算是特征了。
+特征的话我觉得**eval%28base64_decode%28strrev%28urldecode%28%27**就可以算是特征了。
 
 加密器：PHP_XOR_BASE64
 
